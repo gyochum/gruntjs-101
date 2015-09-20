@@ -1,0 +1,19 @@
+body {
+  font-family: Calibri, Verdana, Helvetica, sans-serif;
+  color: #999; }
+
+.base, .inherit-base-blue, .inherit-base-red {
+  padding: 10px;
+  background-color: #ccc;
+  color: #fff; }
+
+.inherit-base-blue {
+  border: 2px solid #000080; }
+
+.inherit-base-red {
+  border: 2px solid red; }
+
+div.right {
+  float: right; }
+  div.right span {
+    color: #000080; }

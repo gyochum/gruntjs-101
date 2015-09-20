@@ -1,0 +1,13 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "description": "grunt.js workflows",
+  "author": "gary",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^1.0.0"
+  }
+}
