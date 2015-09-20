@@ -1,0 +1,1 @@
+This is a starter project to get familiar with grunt.js and some of the available plug-ins.
